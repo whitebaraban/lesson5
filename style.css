@@ -1,0 +1,27 @@
+div {
+    margin: 20px;
+    height: 300px;
+    padding: 40px;
+}
+
+h1.head-text {
+    border-bottom: 1px solid black;
+}
+
+td {
+    padding: 0px;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    
+}
+
+.hide-btn {
+    display: none;
+}
+
+.color-bl {
+    background: black;
+}
